@@ -1,0 +1,6 @@
+hi hello how r u?
+sum=a+b
+diff=a-b
+mul=a*b
+div=a/b
+mod=a%b
